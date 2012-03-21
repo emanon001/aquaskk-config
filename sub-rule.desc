@@ -1,0 +1,7 @@
+###
+###  sub-rule.desc -- 補助変換ルール説明ファイル
+###
+
+dvorakjp.rule          DvorakJP配列を有効にする
+azik-support-us.rule   AZIKをサポートする(US配列)
+azik-support-jis.rule  AZIKをサポートする(JIS配列)
